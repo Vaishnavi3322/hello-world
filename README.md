@@ -1,5 +1,6 @@
 # hello-world
-Name : Vaishnavi Said 
-Age : 19 Yrs
-Studying in D Y Patil International University , Akurdi 
-Student of BTech Bioengineering
+
+hi Here ! 
+
+I like to learn new things that can increase my knowledge 
+like to travel ,Surf on Google .
